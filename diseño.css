@@ -1,0 +1,15 @@
+body {
+    
+    background-image: url(images/Nube-770x533.jpg);
+    background-size: cover;
+    
+}
+.form-title{
+    background-color: rgba(220, 225, 254, 0.616);
+    max-width: 400px;
+    border: 2px solid rgba(189, 191, 234, 0.882);
+    border-radius: 5px;
+    
+    Position: absolute; top:25%; left:45%;
+   }
+
