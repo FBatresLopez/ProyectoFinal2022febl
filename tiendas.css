@@ -1,0 +1,35 @@
+.parte7{
+    background-color: #ffff00;
+    border: none;
+    padding: 8px 220px;
+    color: #fff;
+    margin: 1px 1px;
+    text-align: center;
+    cursor: pointer;
+}
+.parte8{
+    background-color: #0cb7f2;
+    border: none;
+    padding: 8px 220px;
+    color: #fff;
+    margin: 1px 1px;
+    text-align: center;
+    cursor: pointer;
+}
+.parte9{
+    background-color: #0000ff;
+    border: none;
+    padding: 8px 210px;
+    color: #fff;
+    margin: 1px 1px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.a, .parte7, .parte8, .parte9{
+    text-decoration: none;
+}
+
+.a, .parte7, .parte8, .parte9{
+    color: #fff;
+}
