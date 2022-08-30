@@ -1,25 +1,25 @@
 .parte1{
-    background-color: #ffff00;
+    background-color: #0526b8;
     border: none;
-    padding: 8px 220px;
+    padding: 20px 200px;
     color: #fff;
     margin: 1px 1px;
     text-align: center;
     cursor: pointer;
 }
 .parte2{
-    background-color: #0cb7f2;
+    background-color: #517ae2;
     border: none;
-    padding: 8px 220px;
+    padding: 20px 200px;
     color: #fff;
     margin: 1px 1px;
     text-align: center;
     cursor: pointer;
 }
 .parte3{
-    background-color: #0000ff;
+    background-color: #0000b2ea;
     border: none;
-    padding: 8px 210px;
+    padding: 20px 200px;
     color: #fff;
     margin: 1px 1px;
     text-align: center;
